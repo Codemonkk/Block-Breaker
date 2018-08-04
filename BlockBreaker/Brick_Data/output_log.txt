@@ -1,0 +1,84 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Repos\BlockBreaker\Brick_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Repos\BlockBreaker\Brick_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Repos\BlockBreaker\Brick_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Repos\BlockBreaker\Brick_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Repos\BlockBreaker\Brick_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Repos\BlockBreaker\Brick_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Repos\BlockBreaker\Brick_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Repos\BlockBreaker\Brick_Data\Managed\System.dll (this message is harmless)
+Music Player Awake 10138
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Music Player Start 10138
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Level load requested for: Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 14.886437 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 309.
+Total: 3.928154 ms (FindLiveObjects: 0.049013 ms CreateObjectMapping: 0.025388 ms MarkObjects: 0.334281 ms  DeleteObjects: 0.010578 ms)
+
+Mouse clicked, ball launch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.986622 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 4.883747 ms (FindLiveObjects: 0.052892 ms CreateObjectMapping: 0.057123 ms MarkObjects: 0.567008 ms  DeleteObjects: 0.026798 ms)
+
+Mouse clicked, ball launch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Level load requested for: Loose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.172804 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 141.
+Total: 12.246745 ms (FindLiveObjects: 0.020451 ms CreateObjectMapping: 0.022567 ms MarkObjects: 0.330049 ms  DeleteObjects: 8.530514 ms)
+
+Level load requested for: Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.869553 ms
+Music Player Awake 11128
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Duplicate music player self-destructing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 159.
+Total: 3.821664 ms (FindLiveObjects: 0.027504 ms CreateObjectMapping: 0.023977 ms MarkObjects: 0.438303 ms  DeleteObjects: 0.011283 ms)
+
+I want to Quit!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
